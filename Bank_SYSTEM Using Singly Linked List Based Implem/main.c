@@ -1,11 +1,11 @@
 /*
  ============================================================================
- Name        : Bank System
- Author      : Sohaib Reda Dar
+ Name        : Bank Database System
+ Author      : Sohaib Dar
  Version     : ver 1.0
  Copyright   : For free
- Description : Bank DataBase Project USING singly Linked List
- Date        : 20 / 1 / 2019
+ Description : Bank Database Project USING singly Linked List
+ Date        : 20 / 1 / 2018
  ============================================================================
  */
 #include <stdio.h>
